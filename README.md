@@ -128,12 +128,20 @@ A collection of tips for scientific research.
   > **Data Analysis Visulization**
   >
   > - **Choropleths**: 基于地域的数据信息可视化
+  >
   > - **Graduated Circles**: 利用这一工具我们可以在一张图上呈现出多个不同维度的信息(大小颜色位置等)
+  >
   > - **Dot Distributions**: 描述十分密集的数据点, 可通过其密度直观地获取其地理分布和强度.
+  >
   > - **Animations**: 利用动画和视频呈现数据变动的时序信息
+  >
   > - **3D Extrusions**: 利用高度表示不同地区数据的数量、强度等，直观表示不同地区间差异.
+  >
   > - **3D Environments**: 利用Unity游戏引擎将获取的数据呈现在虚拟世界甚至是增强现实中.
+  >
   > - **Heatmaps**: 热力图利用颜色梯度来表示某个量的分布情况
+  >
+  >   
   >
   > **Python-based Visualization Libs**  [[Page]](https://www.zhihu.com/question/26620885/answer/877134982?utm_source=qq&utm_medium=social)
   >
@@ -155,10 +163,15 @@ A collection of tips for scientific research.
   >
   > - Mayavi: 一个用于绘制交互式3D科学数据的Python库. [[Homepage]](http://docs.enthought.com/mayavi/mayavi/) [[github]](https://github.com/enthought/mayavi)
   >
+  > 
+  >
   > **图表可视化(在线交互)**
   >
   > - Flourish: 在线动态条形图(Bar Chart Race)、数据分析图表可视化工具;
+  >
   > - 花火hanabi: 在线数据可视化工具
+  >
+  >   
   >
   > **商业工具**
   >
@@ -166,7 +179,7 @@ A collection of tips for scientific research.
   > - Excel数据地图指南: [[Homepage]](https://www.zhihu.com/question/30073147/answer/232926762) 
   > - Tableau
   >
-  > [^注]: 来自Alfred数据室
+  > [注]: 来自Alfred数据室
 
 - **Reference Management**
 
