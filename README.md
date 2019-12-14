@@ -2,7 +2,7 @@
 
 A collection of tips for scientific research.
 
-
+[TOC]
 
 ## Reading Tips
 
@@ -10,6 +10,8 @@ A collection of tips for scientific research.
 
 
 - 如何总结和整理学术文献？[[Zhihu]](https://www.zhihu.com/question/26901116)
+
+
 
 
 
@@ -21,13 +23,20 @@ A collection of tips for scientific research.
 - 论文配图注意事项 [[Page]](https://mp.weixin.qq.com/s/lSEDsnbsF6AqhS9U9S7cDg)
 - 论文常用的高频词汇 [[Page]](https://zhuanlan.zhihu.com/p/40734213)
 - Latex安装与使用，黄正华 [[Page]](http://aff.whu.edu.cn/huangzh/)
+- How To Write A Dissertation [[Page]](https://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
 - Learning-Markdown, 中文Markdown入门指南 [[Page]](http://xianbai.me/learn-md/index.html)
+
+- GitHub Flavored Markdown介绍 [emoji] [[Page]](https://github.com/guodongxiaren/README/blob/master/emoji.md)
+
+
 
 
 
 ## Submitting
 
 - SCI 投稿各阶段邮件模板示例 [[Page]](https://mp.weixin.qq.com/s/Y36VWOq1NweDRaYNIQFrZw)
+
+
 
 
 
@@ -67,84 +76,76 @@ A collection of tips for scientific research.
 
 
 
+
+
 ## Reserch Tools
 
-- **Academic Writing**
+#### **Academic Writing**
 
-  > [Linggle](linggle.com): 一个可以查词组固定搭配的网站.
-  >
-  > [Netspeak](https://netspeak.org/?lang=en): 词组搭配查询网站
-  >
-  > [Grammarly](www.grammarly.com): 一个可以纠正语法，提供同义词建议等的应用，支持在线或本地客户端.
-  >
-  > [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器，保留原文档的排版，支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word、图片的转换等功能。
-  >
-  > [Overleaf](https://www.overleaf.com/): 可多人在线协作的 LaTeX 编写平台.
+- [Linggle](linggle.com): 一个可以查词组固定搭配的网站.
 
-- **Latex Tools**
+- [Netspeak](https://netspeak.org/?lang=en): 词组搭配查询网站
 
-  > [LaTeX handwritten](http://detexify.kirelabs.org/classify.html): 一个可以手写数学符号识别 LaTeX expression 的小工具.
-  >
-  > [Excel2LaTeX](https://ctan.org/tex-archive/support/excel2latex): 把 Excel 表格转换成 LaTeX 代码的工具，但是有些效果不能完美转换，需要微调.
-  >
-  > [Equation2Latex](https://github.com/blaisewang/img2latex-mathpix): Image2LaTeX, 输入公式截图自动将其对应的 LaTex文本转换出来 [[Note]](https://mp.weixin.qq.com/s/xK7pizDvzggPbvaDcV2qdQ)
-  >
-  > [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO): 数学公式识别增强版, 中英文手写印刷公式、支持初级符号推导(数据结构基于LaTeX抽象语法树) 
-  >
-  > [Mathpix](https://mathpix.com/): Extract LaTeX from PDFs or handwritten notes, snip equations to Latex code. 
-  >
-  > [Detexify](http://detexify.kirelabs.org/classify.html): online handwritten symbol recognition for LaTex
-  >
-  > [Eqneditor](http://latex.codecogs.com/eqneditor/editor.php): 在线Latex公式生成，Mathtype公式编辑，自动转换成latex语句.
-  >
-  > [Table Editor](http://truben.no/table/): 在线Latex表格生成
-  >
-  > [Tables Generator](http://www.tablesgenerator.com/): 在线Latex表格生成
+- [Grammarly](www.grammarly.com): 一个可以纠正语法, 提供同义词建议等的应用, 支持在线或本地客户端
 
-- **Drawing Tools**
+- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器, 保留原文档的排版, 支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word, 图片的转换等功能。
 
-  > **Illustrator**: 矢量插画软件
-  >
-  > **Origin**: 功能丰富全面的画图软件，可以满足高级用户数据分析、函数拟合等需要.
-  >
-  > **Microsoft Visio**
-  >
-  > **Python Matplotlib** 
-  >
-  > - Python basemap: 地理信息可视化的库，是Matplotlib的一个附加工具包，通过结合 matplotlib 可以绘制出很多漂亮的地图，类似于Matlab的M_map模块。Basemap包括GSSH海岸线数据集，以及来自GMT的河流、州和国家边界的数据集。这些数据集可用于在地图上以几种不同的分辨率绘制海岸线，河流和政治边界。[[使用入门]](https://zhuanlan.zhihu.com/p/94483730)
-  >
-  > **Sigmaplot**
-  >
-  > **GraphPad**
-  >
-  > **Inkscape**
-  >
-  > **GMT**: 地理信息绘图工具
-  >
-  > [Office Timeline Online](https://online.officetimeline.com/app/#/new-from-template?searchText=): Make native PowerPoint timelines online 
+- [Overleaf](https://www.overleaf.com/): 可多人在线协作的 LaTeX 编写平台.
 
-- **Data Analysis** [[Page]](https://mp.weixin.qq.com/s/l9Yy5C2CsIjSpBiX2AWULw)
+  
 
-  > **Data Analysis Visulization**
-  >
+#### **Latex Tools**
+
+- [LaTeX handwritten](http://detexify.kirelabs.org/classify.html): 一个可以手写数学符号识别 LaTeX expression 的小工具.
+- [Excel2LaTeX](https://ctan.org/tex-archive/support/excel2latex): 把 Excel 表格转换成 LaTeX 代码的工具，但是有些效果不能完美转换，需要微调.
+- [Equation2Latex](https://github.com/blaisewang/img2latex-mathpix): Image2LaTeX, 输入公式截图自动将其对应的 LaTex文本转换出来 [[Note]](https://mp.weixin.qq.com/s/xK7pizDvzggPbvaDcV2qdQ)
+- [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO): 数学公式识别增强版, 中英文手写印刷公式、支持初级符号推导(数据结构基于LaTeX抽象语法树) 
+- [Mathpix](https://mathpix.com/): Extract LaTeX from PDFs or handwritten notes, snip equations to Latex code. 
+- [Detexify](http://detexify.kirelabs.org/classify.html): online handwritten symbol recognition for LaTex
+- [Eqneditor](http://latex.codecogs.com/eqneditor/editor.php): 在线Latex公式生成，Mathtype公式编辑，自动转换成latex语句.
+- [Table Editor](http://truben.no/table/): 在线Latex表格生成
+- [Tables Generator](http://www.tablesgenerator.com/): 在线Latex表格生成
+
+
+
+#### Drawing Tools
+
+- Illustrator: 矢量插画软件
+
+- Origin: 功能丰富全面的画图软件，可以满足高级用户数据分析、函数拟合等需要.
+
+- Microsoft Visio
+
+- Python Matplotlib
+
+  > Python basemap: 地理信息可视化的库，是Matplotlib的一个附加工具包，通过结合 matplotlib 可以绘制出很多漂亮的地图，类似于Matlab的M_map模块。Basemap包括GSSH海岸线数据集，以及来自GMT的河流、州和国家边界的数据集。这些数据集可用于在地图上以几种不同的分辨率绘制海岸线，河流和政治边界。[[使用入门]](https://zhuanlan.zhihu.com/p/94483730)
+
+- Sigmaplot
+
+- GraphPad
+
+- Inkscape
+
+- GMT: 地理信息绘图工具
+
+- [Office Timeline Online](https://online.officetimeline.com/app/#/new-from-template?searchText=): Make native PowerPoint timelines online 
+
+
+
+#### Data Analysis  [[Page]](https://mp.weixin.qq.com/s/l9Yy5C2CsIjSpBiX2AWULw)
+
+- **Data Analysis Visulization**
+
   > - **Choropleths**: 基于地域的数据信息可视化
-  >
   > - **Graduated Circles**: 利用这一工具我们可以在一张图上呈现出多个不同维度的信息(大小颜色位置等)
-  >
   > - **Dot Distributions**: 描述十分密集的数据点, 可通过其密度直观地获取其地理分布和强度.
-  >
   > - **Animations**: 利用动画和视频呈现数据变动的时序信息
-  >
   > - **3D Extrusions**: 利用高度表示不同地区数据的数量、强度等，直观表示不同地区间差异.
-  >
   > - **3D Environments**: 利用Unity游戏引擎将获取的数据呈现在虚拟世界甚至是增强现实中.
-  >
   > - **Heatmaps**: 热力图利用颜色梯度来表示某个量的分布情况
-  >
-  >   
-  >
-  > **Python-based Visualization Libs**  [[Page]](https://www.zhihu.com/question/26620885/answer/877134982?utm_source=qq&utm_medium=social)
-  >
+
+- **Python-based Visualization Libs**  [[Page]](https://www.zhihu.com/question/26620885/answer/877134982?utm_source=qq&utm_medium=social)
+
   > - Bokeh: 基于Python的交互式数据可视化工具 [[Homepage]](https://bokeh.org) [[github]](https://github.com/bokeh/bokeh)
   >
   > - pyecharts: 开源数据可视化库 [[Homepage]](https://pyecharts.org/#/zh-cn/intro) [[github]](https://github.com/pyecharts/pyecharts)
@@ -163,38 +164,35 @@ A collection of tips for scientific research.
   >
   > - Mayavi: 一个用于绘制交互式3D科学数据的Python库. [[Homepage]](http://docs.enthought.com/mayavi/mayavi/) [[github]](https://github.com/enthought/mayavi)
   >
-  > 
+
+- **图表可视化(在线交互)**
+
+  > Flourish: 在线动态条形图(Bar Chart Race)、数据分析图表可视化工具;
   >
-  > **图表可视化(在线交互)**
-  >
-  > - Flourish: 在线动态条形图(Bar Chart Race)、数据分析图表可视化工具;
-  >
-  > - 花火hanabi: 在线数据可视化工具
-  >
-  >   
-  >
-  > **商业工具**
-  >
+  > 花火hanabi: 在线数据可视化工具
+
+- **商业工具**
+
   > - Power BI+Animated Bar Chart Race plug-in: 交互式数据可视化工具
   > - Excel数据地图指南: [[Homepage]](https://www.zhihu.com/question/30073147/answer/232926762) 
   > - Tableau
-  >
-  > [注]: 来自Alfred数据室
 
-- **Reference Management**
 
-  >[Mendeley](https://www.mendeley.com/)
-  
-- **Auxiliary Tools**
 
-  > [Snappy](http://snappy-app.com/) 和 [Snipaste](https://www.snipaste.com/): 截屏软件(Mac/Windows)，最基础的功能是可以截图并悬浮置顶在屏幕上.
-  >
-  > [Smallpdf](https://smallpdf.com/): online PDF compress and convert.
-  >
-  > Everthing: 轻量级搜索软件，快速搜索电脑文件，不能搜索和打开软件.
->
-  > Listary: 轻量级本地搜索软件，快速查找并打开电脑文件和软件
-  
+#### Reference Management
+
+- [Mendeley](https://www.mendeley.com/)
+
+
+
+#### Auxiliary Tools
+
+- [Snappy](http://snappy-app.com/) 和 [Snipaste](https://www.snipaste.com/): 截屏软件(Mac/Windows)，最基础的功能是可以截图并悬浮置顶在屏幕上.
+- [Smallpdf](https://smallpdf.com/): online PDF compress and convert.
+- Everthing: 轻量级搜索软件，快速搜索电脑文件，不能搜索和打开软件.
+- Listary: 轻量级本地搜索软件，快速查找并打开电脑文件和软件
+
+
 
 
 
@@ -203,6 +201,8 @@ A collection of tips for scientific research.
 - 哈佛大学何毓琦：年轻人如何做好科研 [[Page]](https://mp.weixin.qq.com/s/CjqqZjpFaoxjOaqkz289xg)
 - 他为什么博士期间可以发论文影响因子大于50？[[Page]](https://mp.weixin.qq.com/s/hAtOT5b8n8Acsn2icVoLvg)
 - 孙剑：如何在大公司和创业公司做好计算机视觉的研究？[[Page]](https://mp.weixin.qq.com/s/l46956I0jSRZV6Gg3WMPFA)
+
+
 
 
 
