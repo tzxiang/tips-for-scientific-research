@@ -28,7 +28,7 @@ A collection of tips for scientific research.
 
 - GitHub Flavored Markdown介绍 [emoji] [[Page]](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 
-
+- The Proposal Writer's Guide: Overview, 2014 [[Page]](https://orsp.umich.edu/proposal-writers-guide-overview)
 
 
 
@@ -58,23 +58,26 @@ A collection of tips for scientific research.
 
 - [Dataset Search](https://toolbox.google.com/datasetsearch): Google dataset search for CV/ML research 
 - [CODELF](https://unbug.github.io/codelf/): A search engine to search over GitHub, Bitbucket, GitLab to find real-world usage variable names.
-
+- [Library Genesis](http://gen.lib.rus.ec/): 英文电子书搜索网站
 - [Stack Exchange](https://stackexchange.com/sites): 专业知识问答社区，包括著名的编程问答网站 Stack Overflow.
-
 - [WolframAlpha](https://www.wolframalpha.com/): 一个绘图计算器、在线图书馆和搜寻引擎综合体, 将信息转换成图像更直观地呈现出来.
-
 - [Topsy](http://topsy.thisisthebrigade.com/): Twitter专用搜索引擎, 可以获取 2006 年以来 Twitter 上所有完整的索引，可以用于及时准确地分析 Twitter 上的热点(social analytics).
 
 
 
 #### Online Pics Material
 
+> Slides picture material
+
 - [NASA Image and Video Library](https://images.nasa.gov/): NASA universe image and video library
 - [Unsplash](https://unsplash.com/): Beautiful free images and pictures
 - [Icons8](https://icons8.com/): Free icons
-- [WordArt](https://wordart.com/): online word cloud art creator 
+- [WordArt](https://wordart.com/): Online word cloud art creator 
 
-
+- [Duososo](http://duososo.com/): Picture
+- [Pexels](https://www.pexels.com/): Picture
+- [Easyicon](http://www.easyicon.net/): Free icons
+- [PPT 配色表参考](http://tool.c7sky.com/webcolor/)
 
 
 
@@ -101,6 +104,7 @@ A collection of tips for scientific research.
 - [Equation2Latex](https://github.com/blaisewang/img2latex-mathpix): Image2LaTeX, 输入公式截图自动将其对应的 LaTex文本转换出来 [[Note]](https://mp.weixin.qq.com/s/xK7pizDvzggPbvaDcV2qdQ)
 - [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO): 数学公式识别增强版, 中英文手写印刷公式、支持初级符号推导(数据结构基于LaTeX抽象语法树) 
 - [Mathpix](https://mathpix.com/): Extract LaTeX from PDFs or handwritten notes, snip equations to Latex code. 
+- [MathOCR](http://sourceforge.net/projects/mathocr/): 用Java语言编写的一个印刷体数学公式识别系统，可以识别图片中数学公式并转换为相应的LaTeX代码.
 - [Detexify](http://detexify.kirelabs.org/classify.html): online handwritten symbol recognition for LaTex
 - [Eqneditor](http://latex.codecogs.com/eqneditor/editor.php): 在线Latex公式生成，Mathtype公式编辑，自动转换成latex语句.
 - [Table Editor](http://truben.no/table/): 在线Latex表格生成
@@ -191,16 +195,18 @@ A collection of tips for scientific research.
 - [Smallpdf](https://smallpdf.com/): online PDF compress and convert.
 - Everthing: 轻量级搜索软件，快速搜索电脑文件，不能搜索和打开软件.
 - Listary: 轻量级本地搜索软件，快速查找并打开电脑文件和软件
-
-
+- [Clip Converter](https://www.clipconverter.cc/): YouTube to MP4 & MP3 Converter
 
 
 
 ## Experience
 
-- 哈佛大学何毓琦：年轻人如何做好科研 [[Page]](https://mp.weixin.qq.com/s/CjqqZjpFaoxjOaqkz289xg)
-- 他为什么博士期间可以发论文影响因子大于50？[[Page]](https://mp.weixin.qq.com/s/hAtOT5b8n8Acsn2icVoLvg)
-- 孙剑：如何在大公司和创业公司做好计算机视觉的研究？[[Page]](https://mp.weixin.qq.com/s/l46956I0jSRZV6Gg3WMPFA)
+- [哈佛大学何毓琦：年轻人如何做好科研 ](https://mp.weixin.qq.com/s/CjqqZjpFaoxjOaqkz289xg)
+- [他为什么博士期间可以发论文影响因子大于50?](https://mp.weixin.qq.com/s/hAtOT5b8n8Acsn2icVoLvg)
+- [孙剑：如何在大公司和创业公司做好计算机视觉的研究?](https://mp.weixin.qq.com/s/l46956I0jSRZV6Gg3WMPFA)
+- [华刚：如何做好计算机视觉的研究?](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649439633&idx=1&sn=f9a6b894e4266a6e5ec4b6ec673255a2&chksm=82c0d415b5b75d03faa511eb691630d2e5d3ed2fbe3598629ab20a037b8d95bfa5c795ad1c66&mpshare=1&scene=23&srcid=1205HjqueOYUc9od6Z4SPi21#rd)
+
+- [如何赢得导师的心](https://mp.weixin.qq.com/s?__biz=MzIwMjk1OTc2MA==&mid=2247488614&idx=1&sn=d7a386f8552a897f9de0883b91cbbdf8&source=41#wechat_redirect)
 
 
 
