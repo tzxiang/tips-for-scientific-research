@@ -2,20 +2,31 @@
 
 A collection of tips for scientific research.
 
+**Table of Contents**
+
+- [ReadingTips](#ReadingTips)
+- [WritingTips](#WritingTips)
+- [Submitting](#Submitting)
+- [ResearchWebpage](#ResearchWebpage)
+- [ReserchTools](#ReserchTools)
+- [Experience](#Experience)
+- [Funny](#Funny)
+
+
+
 [TOC]
 
-## Reading Tips
+## ReadingTips
 
 - Tips for Reading English Literature Efficiently (in Chinese) [[Page]](https://mp.weixin.qq.com/s/d3TYRipXgKCgpAJrvNWlog)
 
 
+- S. Keshav: How to Read a Paper, 2016 [[Page]](/docs/HowtoReadaPaper2016.pdf)
 - 如何总结和整理学术文献？[[Zhihu]](https://www.zhihu.com/question/26901116)
 
 
 
-
-
-## Writing Tips
+## WritingTips
 
 - How to get published in an academic journal: top tips from editors [[Page]](https://www.theguardian.com/education/2015/jan/03/how-to-get-published-in-an-academic-journal-top-tips-from-editors) [[Page-chinese]](https://mp.weixin.qq.com/s/6J1ewjObDfej9AXy577YbQ)
 - 学术写作常用词组与句式(Common phrases and sentence patterns in academic writing) [[Page]](https://mp.weixin.qq.com/s/3DBxV6-Nui4IrnS5BeRQrw)
@@ -36,11 +47,11 @@ A collection of tips for scientific research.
 
 - SCI 投稿各阶段邮件模板示例 [[Page]](https://mp.weixin.qq.com/s/Y36VWOq1NweDRaYNIQFrZw)
 
+- 浅谈学术论文rebuttal, by 魏秀参 [[Page]](https://zhuanlan.zhihu.com/p/104298923)
 
 
 
-
-## Research Webpage
+## ResearchWebpage
 
 #### Literature-tracking for CV/ML
 
@@ -49,8 +60,8 @@ A collection of tips for scientific research.
 - [PaperWithCode](https://paperswithcode.com/): 自动把论文连接到实现代码的 GitHub 资源库和数据集 [[github-version]](https://github.com/zziz/pwc)
 - [Arxiv-Sanity](http://www.arxiv-sanity.com/): Andrej Karpath开发，相比arXiv，在浏览中显示摘要、评论和非常基本的社交、库功能
 - [Shortscience](http://www.shortscience.org/): 共享论文概述和评论的平台, has 1426 public summaries so far.
-
 - [Reddit Machine Learning-WAYR (What Are You Reading)](https://www.reddit.com/r/MachineLearning/comments/807ex4/d_machine_learning_wayr_what_are_you_reading_week/): share machine learning research papers, journals, and articles that you're reading this week, with some insight and discussion.
+- [ImageScience](https://imagescience.org/): 图像科学资源汇集
 
 
 
@@ -81,7 +92,7 @@ A collection of tips for scientific research.
 
 
 
-## Reserch Tools
+## ReserchTools
 
 #### **Academic Writing**
 
@@ -201,16 +212,25 @@ A collection of tips for scientific research.
 
 ## Experience
 
+From Advisor
+
+- [周志华教授：如何做研究与写论文?](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)
 - [哈佛大学何毓琦：年轻人如何做好科研 ](https://mp.weixin.qq.com/s/CjqqZjpFaoxjOaqkz289xg)
-- [他为什么博士期间可以发论文影响因子大于50?](https://mp.weixin.qq.com/s/hAtOT5b8n8Acsn2icVoLvg)
 - [孙剑：如何在大公司和创业公司做好计算机视觉的研究?](https://mp.weixin.qq.com/s/l46956I0jSRZV6Gg3WMPFA)
 - [华刚：如何做好计算机视觉的研究?](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649439633&idx=1&sn=f9a6b894e4266a6e5ec4b6ec673255a2&chksm=82c0d415b5b75d03faa511eb691630d2e5d3ed2fbe3598629ab20a037b8d95bfa5c795ad1c66&mpshare=1&scene=23&srcid=1205HjqueOYUc9od6Z4SPi21#rd)
-
 - [如何赢得导师的心](https://mp.weixin.qq.com/s?__biz=MzIwMjk1OTc2MA==&mid=2247488614&idx=1&sn=d7a386f8552a897f9de0883b91cbbdf8&source=41#wechat_redirect)
 
+From Postgraduate
 
+- [刘畅流：湾区五年博士路 (2019)](https://zhuanlan.zhihu.com/p/39633043)
 
+- [王赟：我的八年博士生涯](https://zhuanlan.zhihu.com/p/50597445)
 
+- [他为什么博士期间可以发论文影响因子大于50?](https://mp.weixin.qq.com/s/hAtOT5b8n8Acsn2icVoLvg)
+
+- [田渊栋：博士五年总结系列 (2013)](http://yuandong-tian.com/five_year_summary_of_PhD.pdf)
+
+  
 
 ## Funny
 
