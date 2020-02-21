@@ -106,7 +106,7 @@ A collection of tips for scientific research.
 
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器, 保留原文档的排版, 支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word, 图片的转换等功能。
 
-- [Hemingway Editor](http://www.hemingwayapp.com/): 论文可读性评价，用不同颜色标记过于简单或难懂的句子，帮助文字更加清晰，可在线或桌面端。
+- [Hemingway Editor](http://www.hemingwayapp.com/): 论文可读性评价，不同颜色标记过于简单或难懂的句子，帮助文字更加清晰，可在线或客户端。
 
 - [Cliché Finder](http://www.clichefinder.net/): 一款检查论文的陈词滥调（即过度使用的常见表达）的在线应用
 
