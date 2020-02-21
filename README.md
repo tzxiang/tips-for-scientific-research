@@ -96,6 +96,8 @@ A collection of tips for scientific research.
 
 #### **Academic Writing**
 
+- [Overleaf](https://www.overleaf.com/): 可多人在线协作的 LaTeX 编写平台.
+
 - [Linggle](linggle.com): 一个可以查词组固定搭配的网站.
 
 - [Netspeak](https://netspeak.org/?lang=en): 词组搭配查询网站
@@ -104,9 +106,16 @@ A collection of tips for scientific research.
 
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器, 保留原文档的排版, 支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word, 图片的转换等功能。
 
-- [Overleaf](https://www.overleaf.com/): 可多人在线协作的 LaTeX 编写平台.
+- [Hemingway Editor](http://www.hemingwayapp.com/): 论文可读性评价，用不同颜色标记过于简单或难懂的句子，帮助文字更加清晰，可在线或桌面端。
 
-  
+- [Cliché Finder](http://www.clichefinder.net/): 一款检查论文的陈词滥调（即过度使用的常见表达）的在线应用
+
+- [Wordcounter](https://wordcounter.net/): 检查论文中的词汇，并给出词频报告，帮助改词或删词。
+
+- [After the Deadline](https://afterthedeadline.com/): 检查论文写作风格、拼写和语法等方面的问题，并给出改进意见。
+
+- [Slick Write](https://www.slickwrite.com/#!home): 一个在线编辑工具，帮助检查语法、写作风格、句子结构和所使用的词汇。
+
 
 #### **Latex Tools**
 
