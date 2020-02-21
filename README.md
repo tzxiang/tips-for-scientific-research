@@ -100,7 +100,7 @@ A collection of tips for scientific research.
 
 - [Netspeak](https://netspeak.org/?lang=en): 词组搭配查询网站
 
-- [Grammarly](www.grammarly.com): 一个可以纠正语法, 提供同义词建议等的应用, 支持在线或本地客户端
+- [Grammarly](https://www.grammarly.com): 一个可以纠正语法, 提供同义词建议等的应用, 支持在线或本地客户端 
 
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器, 保留原文档的排版, 支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word, 图片的转换等功能。
 
