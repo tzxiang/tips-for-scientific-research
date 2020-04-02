@@ -84,11 +84,11 @@ A collection of tips for scientific research.
 - [Unsplash](https://unsplash.com/): Beautiful free images and pictures
 - [Icons8](https://icons8.com/): Free icons
 - [WordArt](https://wordart.com/): Online word cloud art creator 
-
 - [Duososo](http://duososo.com/): Picture
 - [Pexels](https://www.pexels.com/): Picture
 - [Easyicon](http://www.easyicon.net/): Free icons
 - [PPT 配色表参考](http://tool.c7sky.com/webcolor/)
+- [Unsplash](https://unsplash.com/): 免费高质量图片网站，摄影作品居多.
 
 
 
@@ -97,24 +97,16 @@ A collection of tips for scientific research.
 #### **Academic Writing**
 
 - [Overleaf](https://www.overleaf.com/): 可多人在线协作的 LaTeX 编写平台.
-
 - [Linggle](linggle.com): 一个可以查词组固定搭配的网站.
-
 - [Netspeak](https://netspeak.org/?lang=en): 词组搭配查询网站
-
 - [Grammarly](https://www.grammarly.com): 一个可以纠正语法, 提供同义词建议等的应用, 支持在线或本地客户端 
-
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/): 免费的在线文档翻译器, 保留原文档的排版, 支持Word/PDF/Excel/Powerpoint/ OpenOffice/文本等; 还提供PDF和Word, 图片的转换等功能。
-
 - [Hemingway Editor](http://www.hemingwayapp.com/): 论文可读性评价，不同颜色标记过于简单或难懂的句子，帮助文字更加清晰，可在线或客户端。
-
 - [Cliché Finder](http://www.clichefinder.net/): 一款检查论文的陈词滥调（即过度使用的常见表达）的在线应用
-
 - [Wordcounter](https://wordcounter.net/): 检查论文中的词汇，并给出词频报告，帮助改词或删词。
-
 - [After the Deadline](https://afterthedeadline.com/): 检查论文写作风格、拼写和语法等方面的问题，并给出改进意见。
-
 - [Slick Write](https://www.slickwrite.com/#!home): 一个在线编辑工具，帮助检查语法、写作风格、句子结构和所使用的词汇。
+- [AimWriting](https://app.mtutor.engkoo.com/englishwriting/): 微软小英写作网站，类似grammarly，提供语法检查、拼写错误、分数和修改建议
 
 
 #### **Latex Tools**
@@ -216,6 +208,7 @@ A collection of tips for scientific research.
 - Everthing: 轻量级搜索软件，快速搜索电脑文件，不能搜索和打开软件.
 - Listary: 轻量级本地搜索软件，快速查找并打开电脑文件和软件
 - [Clip Converter](https://www.clipconverter.cc/): YouTube to MP4 & MP3 Converter
+- Qimgv: 开源图片浏览器
 
 
 
