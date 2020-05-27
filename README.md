@@ -51,6 +51,12 @@ A collection of tips for scientific research.
 
 
 
+## Presentation
+
+- A Guide of Oral/Spotlight Video for Academic Conference [[Page]](https://zhuanlan.zhihu.com/p/142394787)
+
+
+
 ## ResearchWebpage
 
 #### Literature-tracking for CV/ML
@@ -121,6 +127,8 @@ A collection of tips for scientific research.
 - [Eqneditor](http://latex.codecogs.com/eqneditor/editor.php): 在线Latex公式生成，Mathtype公式编辑，自动转换成latex语句.
 - [Table Editor](http://truben.no/table/): 在线Latex表格生成
 - [Tables Generator](http://www.tablesgenerator.com/): 在线Latex表格生成
+- Latex Template:
+  - [LaTeX Thesis Template for Tsinghua](https://github.com/xueruini/thuthesis)
 
 
 
@@ -145,6 +153,8 @@ A collection of tips for scientific research.
 - GMT: 地理信息绘图工具
 
 - [Office Timeline Online](https://online.officetimeline.com/app/#/new-from-template?searchText=): Make native PowerPoint timelines online 
+
+- [Diagrams](https://app.diagrams.net/): Flowchart Maker & Online Diagram Software
 
 
 
@@ -243,3 +253,4 @@ From Postgraduate
 - 在线制作GIF动态图片: 支持图片和视频转换成GIF [[Web]](http://gickr.com/)
 - 查看你注册过的网站 [[Web]](https://www.reg007.com)
 - Logo在线设计网站总结, 如在线文艺大头贴制作工具HipsterLogo、徽标设计Logodesign/Logogenie、Logo设计logaster/logogarden等 [[Web]](https://mp.weixin.qq.com/s/scHfOwZNHGiYLZLbyttDRA)
+
