@@ -18,6 +18,8 @@ A collection of tips for scientific research.
 
 ## ReadingTips
 
+- 沈向洋&华刚: 读科研论文的三个层次、四个阶段与十个问题 [[Page]](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
+- How You Should Read Research Papers According to Andraw Ng [[Page]](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3) [[Comm]](https://mp.weixin.qq.com/s/WS079LD8EfEbC-RBy2JHYg)
 - Tips for Reading English Literature Efficiently (in Chinese) [[Page]](https://mp.weixin.qq.com/s/d3TYRipXgKCgpAJrvNWlog)
 
 
@@ -28,6 +30,7 @@ A collection of tips for scientific research.
 
 ## WritingTips
 
+- 撰写 SCI 论文时好用的软件和技巧 [[Page]](https://mp.weixin.qq.com/s/I-_WNqsBMqw8tMkauZe1Nw)
 - How to get published in an academic journal: top tips from editors [[Page]](https://www.theguardian.com/education/2015/jan/03/how-to-get-published-in-an-academic-journal-top-tips-from-editors) [[Page-chinese]](https://mp.weixin.qq.com/s/6J1ewjObDfej9AXy577YbQ)
 - 学术写作常用词组与句式(Common phrases and sentence patterns in academic writing) [[Page]](https://mp.weixin.qq.com/s/3DBxV6-Nui4IrnS5BeRQrw)
 - SCI常用句型(SCI Generic Sentence Pattern) [[Page]](https://mp.weixin.qq.com/s/x91ICvxdIOX2w41YorsimA)
@@ -36,17 +39,15 @@ A collection of tips for scientific research.
 - Latex安装与使用，黄正华 [[Page]](http://aff.whu.edu.cn/huangzh/)
 - How To Write A Dissertation [[Page]](https://www.cs.purdue.edu/homes/dec/essay.dissertation.html)
 - Learning-Markdown, 中文Markdown入门指南 [[Page]](http://xianbai.me/learn-md/index.html)
-
 - GitHub Flavored Markdown介绍 [emoji] [[Page]](https://github.com/guodongxiaren/README/blob/master/emoji.md)
-
 - The Proposal Writer's Guide: Overview, 2014 [[Page]](https://orsp.umich.edu/proposal-writers-guide-overview)
 
 
 
 ## Submitting
 
+- 施柏鑫：计算机视觉论文投稿到接收，不可不知的关键环节 [[Page]](https://mp.weixin.qq.com/s/_1eNCOtPiUXNkzuvMG_xbA)
 - SCI 投稿各阶段邮件模板示例 [[Page]](https://mp.weixin.qq.com/s/Y36VWOq1NweDRaYNIQFrZw)
-
 - 浅谈学术论文rebuttal, by 魏秀参 [[Page]](https://zhuanlan.zhihu.com/p/104298923)
 
 
@@ -54,6 +55,14 @@ A collection of tips for scientific research.
 ## Presentation
 
 - A Guide of Oral/Spotlight Video for Academic Conference [[Page]](https://zhuanlan.zhihu.com/p/142394787)
+
+
+
+## Others
+
+- CVPR2020 Tutorials: How to Write a Good Review?  [[Page]](https://sites.google.com/view/making-reviews-great-again/) [[Video]](https://www.youtube.com/watch?v=W1zPtTt43LI)
+
+- Valse2020 Webinar: Jiebo Luo - How to Properly Review AI Papers? [[Intro]](https://mp.weixin.qq.com/s/uA2JOlLcbbnX2k4n_T7pQA) [[Video]](https://www.bilibili.com/video/BV1yt4y1Q73k?from=search&seid=11081125045008906833)
 
 
 
@@ -143,6 +152,8 @@ A collection of tips for scientific research.
 - Python Matplotlib
 
   > Python basemap: 地理信息可视化的库，是Matplotlib的一个附加工具包，通过结合 matplotlib 可以绘制出很多漂亮的地图，类似于Matlab的M_map模块。Basemap包括GSSH海岸线数据集，以及来自GMT的河流、州和国家边界的数据集。这些数据集可用于在地图上以几种不同的分辨率绘制海岸线，河流和政治边界。[[使用入门]](https://zhuanlan.zhihu.com/p/94483730)
+  >
+  > **SciencePlots**: Matplotlib的补充包，增添scatter、notebook等其他软件常用的绘图工具，还支持一键调用符合IEEE等不同期刊要求的图表格式。[[github]](https://github.com/garrettj403/SciencePlots) [[Intro]](https://mp.weixin.qq.com/s/eg0Nw_Mmm0VPy8M5xkJNQA)
 
 - Sigmaplot
 
@@ -155,6 +166,8 @@ A collection of tips for scientific research.
 - [Office Timeline Online](https://online.officetimeline.com/app/#/new-from-template?searchText=): Make native PowerPoint timelines online 
 
 - [Diagrams](https://app.diagrams.net/): Flowchart Maker & Online Diagram Software
+
+- handcalcs: 基于python的Latex公式生成包 [[github]](https://github.com/connorferster/handcalcs) [[Intro]](https://mp.weixin.qq.com/s/FcGd4KRIKkW2cD1wRGmDww)
 
 
 
@@ -224,15 +237,20 @@ A collection of tips for scientific research.
 
 ## Experience
 
-From Advisor
+**From Advisor**
 
+- [罗杰波、马毅、华刚等谈视觉研究那些事](https://mp.weixin.qq.com/s/oH3h11xDOnMwpc4U1b4Mtg)
 - [周志华教授：如何做研究与写论文?](https://ying-zhang.github.io/doc/research_and_paper_zhou_zhihua_2007_ppt.pdf)
 - [哈佛大学何毓琦：年轻人如何做好科研 ](https://mp.weixin.qq.com/s/CjqqZjpFaoxjOaqkz289xg)
 - [孙剑：如何在大公司和创业公司做好计算机视觉的研究?](https://mp.weixin.qq.com/s/l46956I0jSRZV6Gg3WMPFA)
 - [华刚：如何做好计算机视觉的研究?](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649439633&idx=1&sn=f9a6b894e4266a6e5ec4b6ec673255a2&chksm=82c0d415b5b75d03faa511eb691630d2e5d3ed2fbe3598629ab20a037b8d95bfa5c795ad1c66&mpshare=1&scene=23&srcid=1205HjqueOYUc9od6Z4SPi21#rd)
 - [如何赢得导师的心](https://mp.weixin.qq.com/s?__biz=MzIwMjk1OTc2MA==&mid=2247488614&idx=1&sn=d7a386f8552a897f9de0883b91cbbdf8&source=41#wechat_redirect)
 
-From Postgraduate
+**From Students**
+
+- [智源论坛2020: 初入科研领域，如何正确做科研](https://mp.weixin.qq.com/s/4a0j0CMbkuJW03rAi0eEQw)
+
+- [科研之路经验分享](https://mp.weixin.qq.com/s/bbOxBjEi4kPHGTM9kv9QZw)
 
 - [刘畅流：湾区五年博士路 (2019)](https://zhuanlan.zhihu.com/p/39633043)
 
