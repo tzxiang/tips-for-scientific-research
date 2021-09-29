@@ -47,7 +47,7 @@ A collection of tips for scientific research.
 - 施柏鑫：计算机视觉论文投稿到接收，不可不知的关键环节 [[Page]](https://mp.weixin.qq.com/s/_1eNCOtPiUXNkzuvMG_xbA)
 - SCI 投稿各阶段邮件模板示例 [[Page]](https://mp.weixin.qq.com/s/Y36VWOq1NweDRaYNIQFrZw)
 - 浅谈学术论文rebuttal, by 魏秀参 [[Page]](https://zhuanlan.zhihu.com/p/104298923)
-
+- How we write rebuttals, Devi Parikh, et al., 2020.05 [[Link]](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
 
 
 ## Presentation
