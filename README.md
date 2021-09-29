@@ -13,9 +13,6 @@ A collection of tips for scientific research.
 - [Funny](#Funny)
 
 
-
-[TOC]
-
 ## ReadingTips
 
 - 沈向洋&华刚: 读科研论文的三个层次、四个阶段与十个问题 [[Page]](https://mp.weixin.qq.com/s/2iwK369LT3qgSypeSWWdCg)
@@ -41,6 +38,7 @@ A collection of tips for scientific research.
 - Learning-Markdown, 中文Markdown入门指南 [[Page]](http://xianbai.me/learn-md/index.html)
 - GitHub Flavored Markdown介绍 [emoji] [[Page]](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 - The Proposal Writer's Guide: Overview, 2014 [[Page]](https://orsp.umich.edu/proposal-writers-guide-overview)
+- [985博导给学生改论文](https://mp.weixin.qq.com/s/NYuEkieFeEb8SrCX2HGsig)
 
 
 
